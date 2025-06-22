@@ -20,8 +20,7 @@ This line says:
 
 > "For any request that starts with `/api/goals`, use the routing logic defined in `goalRoutes.js`
 
-So what is going on in a flow is:
-Here’s what happens when a request hits your server:
+So what is going on in a flow is - when a request hits your server:
 1. Request: `POST /api/goals`
 2. Express routes it through `app.use("/api/goals",...)`
 3. Goes to `goalRoutes.js` 

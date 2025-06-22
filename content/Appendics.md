@@ -2,7 +2,8 @@ These are things I keep forgetting about
 
 ---
 ### Appendix
-1. **Context**
+
+**Context**
 🧠 Think of `context` as a **dictionary** (a bag of variables) that Django hands over to your template.
 It lets you send data from your **Python view** to your **HTML template**.
  🔧 Example:

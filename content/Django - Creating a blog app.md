@@ -1,3 +1,15 @@
+---
+tags:
+  - backend
+  - python
+  - django
+---
+
+
+
+
+> This was written while following [a video pl of Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&si=6stW6oGlPO73dtlC) on how to get started with Django. This playlist is great.
+
 ### Beginning
 
 Better to start a python venv. It's easy. Just open the command palette and search for creating an environment. Then find the interpreter from the available options and boom.
